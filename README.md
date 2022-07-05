@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OneAbrah13
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abraham 
+- 👀 I know one or two things in Java,My SQL,Javascript and Python
+- 🌱 I’m currently into Cyber Security and Digital Forensics 
+- 💞️ 
 - 📫 How to reach me , whatsApp +256779811546
 
 <!---
