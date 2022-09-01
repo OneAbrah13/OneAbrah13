@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abraham 
-- 👀 I know one or two things in Java,My SQL,Javascript and Python
+- 👀 I know one or two things in Java,My SQL,PHP and Python
 - 🌱 I’m currently into Cyber Security and Digital Forensics 
 - 💞️ 
 - 📫 How to reach me , whatsApp +256779811546
